@@ -11,7 +11,6 @@ public class SearchElement {
                 flag = true;
             }
         }
-
         return flag;
     }
 
