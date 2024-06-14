@@ -1,0 +1,24 @@
+recursion
+
+when a function calls itself
+until a specific condition is met
+
+--------------------------------------------------
+
+base case
+
+base case is a condition that stops the recursive function from calling itself
+
+--------------------------------------------------
+
+stack space
+
+space where remaining non-executed/not-completed functions are stored
+
+--------------------------------------------------
+
+recursion tree
+
+recursion tree is a diagram that shows the tree of recursive calls and the amount of work done at each call
+
+--------------------------------------------------
